@@ -1,6 +1,6 @@
 # Algorithm & Programming Final Project
 
-This repository contains base sorting and searching algorithms implemented using C++. It was created as a final assignment to demonstrate fundamental computer science concepts and code practices.
+This repository contains a C++ project that uses 100 randomized alphanumeric data points to test and compare different algorithms. It implements five sorting methods (Selection, Merge, Insertion, Bubble, and Quick Sort) and three searching methods (Binary, Linear, and Interpolation Search). 
 
 ## Features
 
